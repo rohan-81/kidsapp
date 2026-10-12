@@ -1,0 +1,107 @@
+{
+  "appName": "KidsZone",
+  "tagline": "Learn, Play & Grow",
+  "onboarding": {
+    "title": "Welcome to KidsZone!",
+    "subtitle": "A safe, calm, and joyful space to learn languages, math, and fun skills through play.",
+    "selectLanguage": "Select Learning Language",
+    "selectAge": "Choose Age Group",
+    "getStarted": "Start Learning"
+  },
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "games": "Games",
+    "rewards": "Rewards",
+    "parentCorner": "Parent Corner",
+    "back": "Back"
+  },
+  "home": {
+    "greeting": "Hello, Little Learner! 🌟",
+    "continueLearning": "Continue Learning",
+    "dailySuggestion": "Today's Fun Activity",
+    "exploreCategories": "Learning Zones",
+    "playGames": "Play & Learn Games",
+    "viewAll": "View All",
+    "starsEarned": "Stars Collected"
+  },
+  "ageGroups": {
+    "explore": "Ages 2–4 • Explore",
+    "learn": "Ages 4–6 • Learn",
+    "practice": "Ages 6–8 • Practice"
+  },
+  "categories": {
+    "guVarnamala": "Gujarati Varnamala",
+    "guBarakhadi": "Gujarati Barakhadi",
+    "enAlphabet": "English Alphabet",
+    "enPhonics": "English Phonics & Words",
+    "hiVarnamala": "Hindi Varnamala",
+    "numbers": "Numbers & Counting",
+    "math": "Addition & Subtraction",
+    "colorsShapes": "Colors & Shapes",
+    "animals": "Animals & Birds",
+    "fruits": "Fruits & Vegetables",
+    "objects": "Everyday Objects",
+    "games": "Fun Learning Games"
+  },
+  "lesson": {
+    "previous": "Previous",
+    "next": "Next",
+    "finish": "Complete",
+    "repeatAudio": "Listen",
+    "traceLetter": "Finger Trace",
+    "clearTrace": "Clear Canvas",
+    "greatJob": "Wonderful!",
+    "lessonCompleted": "You completed this lesson! You earned a star! ⭐",
+    "backToCategory": "Back to Category"
+  },
+  "games": {
+    "title": "Educational Games",
+    "findLetter": "Find the Correct Letter",
+    "pictureMatching": "Picture Matching",
+    "counting": "Counting Game",
+    "memoryMatch": "Memory Match",
+    "missingLetter": "Missing Letter",
+    "colorsShapes": "Colors & Shapes",
+    "listenChoose": "Listen & Choose",
+    "score": "Score",
+    "question": "Question",
+    "correct": "Super! That's Right! 🎉",
+    "wrong": "Nice try! Let's try again! 💡",
+    "playAgain": "Play Again",
+    "gameOver": "Game Completed! 🏆",
+    "earnedScore": "You scored {{score}} out of {{total}}!"
+  },
+  "rewards": {
+    "title": "My Stars & Badges",
+    "subtitle": "Look at all the fantastic things you have learned!",
+    "totalStars": "Total Stars",
+    "completedLessons": "Lessons Finished",
+    "badgesEarned": "Badges Unlocked",
+    "milestone1": "First Step Learner",
+    "milestone2": "Super Star Scholar",
+    "milestone3": "Alphabet Master",
+    "milestone4": "Math Wizard",
+    "keepGoing": "Keep playing and learning to unlock more friendly badges!"
+  },
+  "parent": {
+    "title": "Parent Corner",
+    "subtitle": "Monitor your child's progress, configure safety, and manage settings.",
+    "gateTitle": "Parent Verification",
+    "gatePrompt": "Please solve this quick math problem to continue:",
+    "gateSubmit": "Unlock Parent Corner",
+    "gateError": "Incorrect answer. Please try again.",
+    "overview": "Learning Progress Overview",
+    "settings": "Settings & Controls",
+    "language": "App Language",
+    "ageGroup": "Target Age Group",
+    "sound": "Lesson Pronunciation & Sound",
+    "screenTime": "Screen Break Reminder",
+    "screenTimeNotice": "Recommend a gentle 15-minute eye break after 20 minutes of play.",
+    "privacyTitle": "Child Privacy Commitment",
+    "privacyNotice": "KidsZone does not collect children's personal info, photos, voice recordings, or location. All progress is saved safely on your device.",
+    "dangerZone": "Reset Progress",
+    "resetData": "Clear All Saved Progress",
+    "resetConfirm": "Are you sure? This will reset all earned stars and lesson milestones."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "appName": "KidsZone",
+  "tagline": "सीखें, खेलें और आगे बढ़ें",
+  "onboarding": {
+    "title": "KidsZone में आपका स्वागत है!",
+    "subtitle": "खेल-खेल में हिंदी, अंग्रेजी और गणित सीखने की सुरक्षित और मजेदार जगह।",
+    "selectLanguage": "सीखने की भाषा चुनें",
+    "selectAge": "आयु वर्ग चुनें",
+    "getStarted": "सीखना शुरू करें"
+  },
+  "nav": {
+    "home": "होम",
+    "categories": "विषय",
+    "games": "खेल",
+    "rewards": "इनाम",
+    "parentCorner": "अभिभावक कॉर्नर",
+    "back": "वापस"
+  },
+  "home": {
+    "greeting": "नमस्ते, नन्हे दोस्त! 🌟",
+    "continueLearning": "सीखना जारी रखें",
+    "dailySuggestion": "आज की मजेदार गतिविधि",
+    "exploreCategories": "सीखने के विषय",
+    "playGames": "शैक्षणिक खेल",
+    "viewAll": "सभी देखें",
+    "starsEarned": "कुल सितारे"
+  },
+  "ageGroups": {
+    "explore": "उम्र २–४ • खोजें",
+    "learn": "उम्र ४–६ • सीखें",
+    "practice": "उम्र ६–८ • अभ्यास"
+  },
+  "categories": {
+    "guVarnamala": "गुजराती वर्णमाला",
+    "guBarakhadi": "गुजराती बारहखड़ी",
+    "enAlphabet": "अंग्रेजी वर्णमाला (A B C)",
+    "enPhonics": "अंग्रेजी फोनिक्स और शब्द",
+    "hiVarnamala": "हिंदी वर्णमाला (अ आ क ख)",
+    "numbers": "संख्याएँ और गिनती (१ २ ३)",
+    "math": "जोड़ और घटाव",
+    "colorsShapes": "रंग और आकार",
+    "animals": "जानवर और पक्षी",
+    "fruits": "फल और सब्जियाँ",
+    "objects": "दैनिक वस्तुएं",
+    "games": "मजेदार खेल"
+  },
+  "lesson": {
+    "previous": "पिछला",
+    "next": "अगला",
+    "finish": "पूरा हुआ",
+    "repeatAudio": "सुनें",
+    "traceLetter": "उंगली से लिखें",
+    "clearTrace": "मिटाएं",
+    "greatJob": "बहुत बढ़िया!",
+    "lessonCompleted": "आपने यह पाठ पूरा कर लिया! आपको एक सितारा मिला! ⭐",
+    "backToCategory": "विषयों पर वापस"
+  },
+  "games": {
+    "title": "शैक्षणिक खेल",
+    "findLetter": "सही अक्षर पहचानें",
+    "pictureMatching": "चित्र और शब्द का मिलान",
+    "counting": "गिनती का खेल",
+    "memoryMatch": "याददाश्त का खेल (जोड़ी)",
+    "missingLetter": "गायब अक्षर भरें",
+    "colorsShapes": "रंग और आकार पहचानें",
+    "listenChoose": "सुनकर सही चित्र चुनें",
+    "score": "अंक",
+    "question": "प्रश्न",
+    "correct": "शाबाश! बिल्कुल सही! 🎉",
+    "wrong": "अच्छा प्रयास! फिर से कोशिश करें! 💡",
+    "playAgain": "फिर से खेलें",
+    "gameOver": "खेल समाप्त! 🏆",
+    "earnedScore": "आपने {{total}} में से {{score}} अंक प्राप्त किए!"
+  },
+  "rewards": {
+    "title": "मेरे सितारे और बैज",
+    "subtitle": "देखें आपने कितनी शानदार प्रगति की है!",
+    "totalStars": "कुल सितारे",
+    "completedLessons": "पूरे किए गए पाठ",
+    "badgesEarned": "प्राप्त बैज",
+    "milestone1": "पहला कदम",
+    "milestone2": "सुपर स्टार छात्र",
+    "milestone3": "वर्णमाला मास्टर",
+    "milestone4": "गणित जादूगर",
+    "keepGoing": "नए बैज पाने के लिए खेलते रहें और सीखते रहें!"
+  },
+  "parent": {
+    "title": "अभिभावक कॉर्नर (Parent Corner)",
+    "subtitle": "अपने बच्चे की प्रगति देखें और सेटिंग्स प्रबंधित करें।",
+    "gateTitle": "अभिभावक सत्यापन",
+    "gatePrompt": "आगे बढ़ने के लिए इस सरल सवाल का जवाब दें:",
+    "gateSubmit": "खोलें",
+    "gateError": "गलत उत्तर। कृपया पुनः प्रयास करें।",
+    "overview": "सीखने की प्रगति",
+    "settings": "सेटिंग्स",
+    "language": "ऐप की भाषा",
+    "ageGroup": "आयु वर्ग",
+    "sound": "आवाज़ और उच्चारण",
+    "screenTime": "स्क्रीन ब्रेक अनुस्मारक",
+    "screenTimeNotice": "बच्चे की आंखों के लिए २० मिनट के खेल के बाद १५ मिनट के विराम की सलाह दी जाती है।",
+    "privacyTitle": "बाल सुरक्षा और गोपनीयता",
+    "privacyNotice": "KidsZone बच्चों की कोई व्यक्तिगत जानकारी, आवाज या स्थान एकत्र नहीं करता है। सारा डेटा आपके फोन में सुरक्षित है।",
+    "dangerZone": "प्रगति रीसेट करें",
+    "resetData": "सभी सहेजा गया डेटा हटाएं",
+    "resetConfirm": "क्या आप निश्चित रूप से सारा रिकॉर्ड रीसेट करना चाहते हैं?"
+  }
+}

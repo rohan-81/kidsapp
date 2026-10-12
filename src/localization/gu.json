@@ -1,0 +1,107 @@
+{
+  "appName": "KidsZone",
+  "tagline": "શીખો, રમો અને આગળ વધો",
+  "onboarding": {
+    "title": "KidsZone માં આપનું સ્વાગત છે!",
+    "subtitle": "બાળકો માટે રમત-રમતમાં ગુજરાતી, અંગ્રેજી અને ગણિત શીખવાની સુંદર અને સલામત જગ્યા.",
+    "selectLanguage": "શીખવાની ભાષા પસંદ કરો",
+    "selectAge": "બાળકની ઉંમર પસંદ કરો",
+    "getStarted": "શીખવાનું શરૂ કરો"
+  },
+  "nav": {
+    "home": "મુખ્ય પાનું",
+    "categories": "વિષયો",
+    "games": "રમતો",
+    "rewards": "ઇનામો",
+    "parentCorner": "વાલી વિભાગ",
+    "back": "પાછા જાઓ"
+  },
+  "home": {
+    "greeting": "નમસ્તે, નાના મિત્ર! 🌟",
+    "continueLearning": "આગળ શીખો",
+    "dailySuggestion": "આજની મજાની પ્રવૃત્તિ",
+    "exploreCategories": "શીખવાના વિષયો",
+    "playGames": "શિક્ષણ સાથે રમતો",
+    "viewAll": "બધું જુઓ",
+    "starsEarned": "મેળવેલા તારા"
+  },
+  "ageGroups": {
+    "explore": "ઉંમર ૨–૪ • શોધો",
+    "learn": "ઉંમર ૪–૬ • શીખો",
+    "practice": "ઉંમર ૬–૮ • મહાવરો"
+  },
+  "categories": {
+    "guVarnamala": "ગુજરાતી વર્ણમાળા (ક ખ ગ)",
+    "guBarakhadi": "ગુજરાતી બારાખડી",
+    "enAlphabet": "અંગ્રેજી મૂળાક્ષરો (A B C)",
+    "enPhonics": "અંગ્રેજી ફોનિક્સ અને શબ્દો",
+    "hiVarnamala": "હિન્દી વર્ણમાળા (अ आ क)",
+    "numbers": "અંકો અને ગણતરી (૧ ૨ ૩)",
+    "math": "સરવાળા અને બાદબાકી",
+    "colorsShapes": "રંગો અને આકારો",
+    "animals": "પ્રાણીઓ અને પક્ષીઓ",
+    "fruits": "ફળો અને શાકભાજી",
+    "objects": "રોજિંદી વસ્તુઓ",
+    "games": "મનોરંજક રમતો"
+  },
+  "lesson": {
+    "previous": "પાછળ",
+    "next": "આગળ",
+    "finish": "પૂર્ણ કરો",
+    "repeatAudio": "સાંભળો",
+    "traceLetter": "અક્ષર ઘૂંટો",
+    "clearTrace": "સાફ કરો",
+    "greatJob": "ખૂબ સરસ!",
+    "lessonCompleted": "તમે આ પાઠ શીખી લીધો! તમને એક તારો મળ્યો! ⭐",
+    "backToCategory": "વિષયો પર પાછા"
+  },
+  "games": {
+    "title": "શૈક્ષણિક રમતો",
+    "findLetter": "સાચો અક્ષર શોધો",
+    "pictureMatching": "ચિત્ર અને શબ્દ જોડો",
+    "counting": "ગણતરીની રમત",
+    "memoryMatch": "યાદશક્તિની રમત (જોડી)",
+    "missingLetter": "ખૂટતો અક્ષર પૂરો",
+    "colorsShapes": "રંગ અને આકાર ઓળખો",
+    "listenChoose": "સાંભળો અને સાચું ચિત્ર પસંદ કરો",
+    "score": "ગુણ",
+    "question": "પ્રશ્ન",
+    "correct": "શાબાશ! એકદમ સાચું! 🎉",
+    "wrong": "ફરીથી પ્રયાસ કરો! 💡",
+    "playAgain": "ફરી રમો",
+    "gameOver": "રમત પૂર્ણ થઈ! 🏆",
+    "earnedScore": "તમે {{total}} માંથી {{score}} ગુણ મેળવ્યા!"
+  },
+  "rewards": {
+    "title": "મારા તારા અને બેજ",
+    "subtitle": "જુઓ તમે કેટલું સરસ શીખી રહ્યા છો!",
+    "totalStars": "કુલ તારાઓ",
+    "completedLessons": "પૂર્ણ કરેલા પાઠ",
+    "badgesEarned": "મળેલા બેજ",
+    "milestone1": "પ્રથમ ડગલું",
+    "milestone2": "સુપર સ્ટાર વિદ્યાર્થી",
+    "milestone3": "મૂળાક્ષર માસ્ટર",
+    "milestone4": "ગણિતના જાદુગર",
+    "keepGoing": "વધુ નવા બેજ મેળવવા માટે રમતા રહો અને શીખતા રહો!"
+  },
+  "parent": {
+    "title": "વાલી વિભાગ (Parent Corner)",
+    "subtitle": "તમારા બાળકની પ્રગતિ જુઓ અને સેટિંગ્સ સંભાળો.",
+    "gateTitle": "વાલીઓની ચકાસણી",
+    "gatePrompt": "આગળ વધવા માટે આ સરળ દાખલો ગણો:",
+    "gateSubmit": "ખોલો",
+    "gateError": "ખોટો જવાબ. ફરી પ્રયત્ન કરો.",
+    "overview": "શીખવાની પ્રગતિ",
+    "settings": "સેટિંગ્સ",
+    "language": "એપની ભાષા",
+    "ageGroup": "ઉંમર જૂથ",
+    "sound": "અવાજ અને ઉચ્ચારણ",
+    "screenTime": "સ્ક્રીન બ્રેક રીમાઇન્ડર",
+    "screenTimeNotice": "બાળકની આંખો માટે ૨૦ મિનિટ પછી ૧૫ મિનિટનો વિરામ લેવાની સલાહ આપીએ છીએ.",
+    "privacyTitle": "બાળકોની સુરક્ષા અને પ્રાઈવસી",
+    "privacyNotice": "KidsZone બાળકોની કોઈ અંગત માહિતી, અવાજ કે લોકેશન એકત્રિત કરતું નથી. બધો ડેટા તમારા ફોનમાં જ સુરક્ષિત રહે છે.",
+    "dangerZone": "પ્રગતિ રીસેટ કરો",
+    "resetData": "બધો ડેટા સાફ કરો",
+    "resetConfirm": "શું તમે ખરેખર બધી પ્રગતિ અને તારાઓ રીસેટ કરવા માંગો છો?"
+  }
+}
