@@ -1,0 +1,3 @@
+"""
+KidsZone Django Backend Config
+"""
